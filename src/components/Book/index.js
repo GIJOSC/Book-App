@@ -14,4 +14,4 @@ function Book({ item , addToCart}) {
   );
 }
 
-export default Book;
+export default Book; 
